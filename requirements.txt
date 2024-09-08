@@ -2,4 +2,3 @@ pyrofork==2.2.11
 pyromod==1.5
 tgCrypto
 python-dotenv
-myjdapi
