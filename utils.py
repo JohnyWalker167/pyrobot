@@ -1,4 +1,5 @@
 import subprocess
+import re
 
 async def get_duration(file_path: str) -> str:
     try:
